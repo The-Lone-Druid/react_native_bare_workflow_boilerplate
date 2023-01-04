@@ -1,6 +1,6 @@
 # Setup
 
-Follow these docs to setup development envionment before following the steps below: [React Native Environment Setup](https://reactnative.dev/docs/environment-setup)
+Follow this documentation to setup development envionment before following the steps below: [React Native Environment Setup](https://reactnative.dev/docs/environment-setup)
 
 1. Clone the Repo
 2. Make sure to swtich to node version 16.18.1 and npm version 8.19.2
